@@ -28,7 +28,7 @@ class zcl_wait implementation.
 
     call function 'ENQUE_SLEEP'
       exporting
-        seconds        = a_second_int
+        seconds        = me->a_second_int
       exceptions
         others         = 1.
 
