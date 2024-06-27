@@ -1,6 +1,6 @@
 # abap-wait
 
-Wait object with commit-free implementation
+Commit-free wait implementation
 
 ## Use
 
