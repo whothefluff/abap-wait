@@ -12,3 +12,6 @@ Success
 ```abap
 wait->trigger( ).
 ```
+   
+# dependencies:
+  - [https://github.com/whothefluff/abap-exceptions](https://github.com/whothefluff/abap-exceptions)
